@@ -8,7 +8,7 @@ TALL stack project (Tailwind+Alpine.js+Laravel+Livewire)
 ## Installation
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/minhkhoablieu/laravel-docker-tall.git
 ```
 
 Go to the project directory
