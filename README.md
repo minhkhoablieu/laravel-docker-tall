@@ -4,9 +4,8 @@
 
 TALL stack project (Tailwind+Alpine.js+Laravel+Livewire)
 
-## Run Locally
 
-Clone the project
+## Installation
 
 ```bash
   git clone https://link-to-project
@@ -30,11 +29,12 @@ Install composer dependencies
   docker exec -it app composer install
 ```
 
+## Run Locally
+
 Start environment
 ```bash
   docker compose up
 ```
-
 
 ## The TALL Stack
 
