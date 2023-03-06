@@ -28,13 +28,25 @@ Install composer dependencies
 ```bash
   docker exec -it app composer install
 ```
+Install npm dependencies
+
+```bash
+  docker exec -it node npm install
+```
 
 ## Run Locally
+
+Run npm
+
+```bash
+  docker exec -it node npm run dev
+```
 
 Start environment
 ```bash
   docker compose up
 ```
+
 
 ## The TALL Stack
 
